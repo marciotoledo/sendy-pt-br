@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sendy\n"
 "POT-Creation-Date: 2018-10-10 16:18+0800\n"
-"PO-Revision-Date: 2018-11-05 04:44-0200\n"
+"PO-Revision-Date: 2018-11-05 06:51-0200\n"
 "Last-Translator: Sendy <hello@sendy.co>\n"
 "Language-Team: Sendy <hello@sendy.co>\n"
 "Language: pt_BR\n"
@@ -235,64 +235,66 @@ msgstr "Ok"
 
 #: app.php:357 app.php:552
 msgid "View report for this campaign"
-msgstr "Ver relatórios para esta campanha"
+msgstr "Ver relatório para esta campanha"
 
 #: app.php:368 app.php:458 includes/list/main.php:79
 msgid "Error retrieving count"
-msgstr ""
+msgstr "Erro ao recuperar contagem"
 
 #: app.php:385
 msgid "Preparing"
-msgstr ""
+msgstr "Preparando"
 
 #: app.php:385
 msgid "Preparing to send your campaign to"
-msgstr ""
+msgstr "Preparando para enviar sua campanha para"
 
 #: app.php:387
 msgid "Preparing to send"
-msgstr ""
+msgstr "Preparando para enviar"
 
 #: app.php:488 reports.php:148
 msgid "Edit this campaign"
-msgstr ""
+msgstr "Editar esta campanha"
 
 #: app.php:488 autoresponders-emails.php:193 custom-fields.php:87 index.php:154
 #: list.php:75 templates.php:46
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: app.php:543 reports.php:181
 msgid "Download CSV of emails that were not delivered to even after retrying"
 msgstr ""
+"Baixar CSV dos emails que não foram entregues mesmo depois de tentar "
+"novamente"
 
 #: app.php:543 reports.php:181
 msgid "not delivered"
-msgstr ""
+msgstr "não entregue"
 
 #: app.php:614
 msgid "There are no campaigns yet"
-msgstr ""
+msgstr "Ainda não há campanhas"
 
 #: app.php:614
 msgid "Send one"
-msgstr ""
+msgstr "Enviar uma"
 
 #: app.php:634
 msgid "Duplicate on which brand?"
-msgstr ""
+msgstr "Duplicar em qual marca?"
 
 #: app.php:639
 msgid "Choose a brand you'd like to duplicate this campaign on"
-msgstr ""
+msgstr "Escolha uma marca que você gostaria de duplicar esta campanha"
 
 #: app.php:670
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: app.php:688
 msgid "Your cron job may not be working"
-msgstr ""
+msgstr "Sua tarefa cron talvez não esteja funcionando"
 
 #: app.php:691
 msgid ""
@@ -301,126 +303,130 @@ msgid ""
 "start sending. If your campaign does not go into 'Sending' status in the "
 "next 5 minutes, please see this troubleshooting tip"
 msgstr ""
+"Sua campanha está com o status 'Preparando' por mais de 5 minutos. Isso "
+"significa que sua tarefa cron não está executando o script 'scheduled.php' "
+"para começar a enviar. Se sua campanha não mudar para o status 'Enviando' "
+"nos próximos 5 minutos, consulte essa dica de solução de problema"
 
 #: app.php:694 autoresponders-report.php:850 custom-fields.php:191
 #: login.php:128 report.php:1020 search-all-lists.php:215 segment.php:872
 #: subscribers.php:634 subscribers.php:702
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: autoresponders-create.php:49 autoresponders-edit.php:64 create.php:43
 #: edit.php:72
 msgid "The subject of your email is required"
-msgstr ""
+msgstr "É necessário ter um assunto no seu email"
 
 #: autoresponders-create.php:50 autoresponders-edit.php:65 create.php:44
 #: edit-brand.php:48 edit.php:73 new-brand.php:47
 msgid "'From name' is required"
-msgstr ""
+msgstr "É necessário um ’Nome de remetente'"
 
 #: autoresponders-create.php:51 autoresponders-edit.php:66 create.php:45
 #: edit-brand.php:49 edit.php:74 new-brand.php:48
 msgid "A valid 'From email' is required"
-msgstr ""
+msgstr "É necessário um 'Email de remetente' válido"
 
 #: autoresponders-create.php:52 autoresponders-edit.php:67 create.php:46
 #: edit-brand.php:50 edit.php:75 new-brand.php:49
 msgid "A valid 'Reply to' email is required"
-msgstr ""
+msgstr "É necessário um email 'Responder para' válido"
 
 #: autoresponders-create.php:53 autoresponders-edit.php:68
 #: create-template.php:36 create.php:47 edit-template.php:51 edit.php:76
 msgid "Your HTML code is required"
-msgstr ""
+msgstr "É necessário seu código HTML"
 
 #: autoresponders-create.php:54 autoresponders-edit.php:69
 msgid "Please specify a number"
-msgstr ""
+msgstr "Por favor, especifique um número"
 
 #: autoresponders-create.php:60 autoresponders-create.php:106
 #: autoresponders-edit.php:75 autoresponders-edit.php:155
 msgid "immediately"
-msgstr ""
+msgstr "imediatamente"
 
 #: autoresponders-create.php:68 autoresponders-create.php:132
 #: autoresponders-edit.php:83 autoresponders-edit.php:218 segment.php:123
 #: segment.php:126 segment.php:233
 msgid "on"
-msgstr ""
+msgstr "em"
 
 #: autoresponders-create.php:94 autoresponders-edit.php:109
 msgid "Create autoresponder email"
-msgstr ""
+msgstr "Criar um email de auto-resposta"
 
 #: autoresponders-create.php:94 autoresponders-edit.php:109
 #: autoresponders-emails.php:48 autoresponders-report.php:189
 msgid "For"
-msgstr ""
+msgstr "Para"
 
 #: autoresponders-create.php:104 autoresponders-create.php:123
 #: autoresponders-edit.php:153 autoresponders-edit.php:209
 msgid "Send email"
-msgstr ""
+msgstr "Enviar email"
 
 #: autoresponders-create.php:107 autoresponders-create.php:125
 #: autoresponders-edit.php:130 autoresponders-edit.php:156
 #: autoresponders-edit.php:211
 msgid "minutes"
-msgstr ""
+msgstr "minutos"
 
 #: autoresponders-create.php:108 autoresponders-create.php:126
 #: autoresponders-edit.php:132 autoresponders-edit.php:157
 #: autoresponders-edit.php:212
 msgid "hours"
-msgstr ""
+msgstr "horas"
 
 #: autoresponders-create.php:109 autoresponders-create.php:127
 #: autoresponders-edit.php:134 autoresponders-edit.php:158
 #: autoresponders-edit.php:213
 msgid "days"
-msgstr ""
+msgstr "dias"
 
 #: autoresponders-create.php:110 autoresponders-create.php:128
 #: autoresponders-edit.php:136 autoresponders-edit.php:159
 #: autoresponders-edit.php:214
 msgid "weeks"
-msgstr ""
+msgstr "semanas"
 
 #: autoresponders-create.php:111 autoresponders-create.php:129
 #: autoresponders-edit.php:138 autoresponders-edit.php:160
 #: autoresponders-edit.php:215
 msgid "months"
-msgstr ""
+msgstr "meses"
 
 #: autoresponders-create.php:114 autoresponders-edit.php:163
 msgid "after they subscribe"
-msgstr ""
+msgstr "depois que eles se inscreverem"
 
 #: autoresponders-create.php:133 autoresponders-edit.php:219
 #: autoresponders-emails.php:132 autoresponders-emails.php:136 segment.php:127
 #: segment.php:233
 msgid "before"
-msgstr ""
+msgstr "antes"
 
 #: autoresponders-create.php:134 autoresponders-edit.php:220
 #: autoresponders-emails.php:120 autoresponders-emails.php:124 segment.php:128
 #: segment.php:233
 msgid "after"
-msgstr ""
+msgstr "depois"
 
 #: autoresponders-create.php:136 autoresponders-edit.php:222
 msgid "each subscriber's"
-msgstr ""
+msgstr "cada inscrito"
 
 #: autoresponders-create.php:151 autoresponders-edit.php:237 create.php:104
 #: edit.php:113 report.php:277 send-to.php:943
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: autoresponders-create.php:154 autoresponders-edit.php:240 create.php:107
 #: edit.php:116
 msgid "Subject of this email"
-msgstr ""
+msgstr "Assunto deste email"
 
 #: autoresponders-create.php:158 autoresponders-create.php:161
 #: autoresponders-edit.php:244 autoresponders-edit.php:247 create.php:131
@@ -428,7 +434,7 @@ msgstr ""
 #: edit.php:145 new-brand.php:142 new-brand.php:145 settings.php:381
 #: settings.php:384
 msgid "From name"
-msgstr ""
+msgstr "Nome de remetente"
 
 #: autoresponders-create.php:165 autoresponders-create.php:168
 #: autoresponders-edit.php:251 autoresponders-edit.php:254 create.php:138
@@ -436,7 +442,7 @@ msgstr ""
 #: edit.php:158 new-brand.php:149 new-brand.php:152 settings.php:388
 #: settings.php:391
 msgid "From email"
-msgstr ""
+msgstr "Email de remetente"
 
 #: autoresponders-create.php:172 autoresponders-create.php:175
 #: autoresponders-edit.php:258 autoresponders-edit.php:261 create.php:151
@@ -444,17 +450,17 @@ msgstr ""
 #: edit.php:165 new-brand.php:246 new-brand.php:249 settings.php:395
 #: settings.php:398
 msgid "Reply to email"
-msgstr ""
+msgstr "Responder para o email"
 
 #: autoresponders-create.php:179 autoresponders-edit.php:265 create.php:158
 #: edit.php:169
 msgid "Plain text"
-msgstr ""
+msgstr "Texto simples"
 
 #: autoresponders-create.php:182 autoresponders-edit.php:268 create.php:161
 #: edit.php:172
 msgid "Plain text of this email"
-msgstr ""
+msgstr "Texto simples deste email"
 
 #: autoresponders-create.php:186 autoresponders-edit.php:272 create.php:165
 #: edit.php:176
@@ -468,55 +474,58 @@ msgid ""
 "good use case is Google Analytics tracking. Don't include '?' in your query "
 "string."
 msgstr ""
+"Opcionalmente adicione uma query string para todos os links da sua "
+"newsletter. Um bom caso de uso é o rastreamento do Google Analytics. Não "
+"inclua ‘?' na sua query string."
 
 #: autoresponders-create.php:202 autoresponders-edit.php:288 create.php:181
 #: edit.php:192 send-to.php:949
 msgid "Attachments"
-msgstr ""
+msgstr "Anexos"
 
 #: autoresponders-create.php:213 autoresponders-edit.php:356 create.php:191
 #: edit.php:260
 msgid "Track opens"
-msgstr ""
+msgstr "Rastreie aberturas"
 
 #: autoresponders-create.php:215 autoresponders-create.php:237
 #: autoresponders-edit.php:358 autoresponders-edit.php:388
 #: autoresponders-emails.php:227 create.php:193 create.php:215 edit.php:262
 #: edit.php:292
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
 
 #: autoresponders-create.php:216 autoresponders-create.php:238
 #: autoresponders-edit.php:359 autoresponders-edit.php:389
 #: autoresponders-emails.php:228 create.php:194 create.php:216 edit.php:263
 #: edit.php:293
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 #: autoresponders-create.php:235 autoresponders-edit.php:386 create.php:213
 #: edit.php:290
 msgid "Track clicks"
-msgstr ""
+msgstr "Rastreie cliques"
 
 #: autoresponders-create.php:262 autoresponders-edit.php:421 create.php:238
 #: custom-fields.php:192 edit-brand.php:454 edit-brand.php:730
 #: edit-list.php:328 edit.php:323 new-brand.php:379 new-brand.php:596
 #: settings.php:469
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: autoresponders-create.php:263 autoresponders-edit.php:422
 msgid "Save autoresponder email"
-msgstr ""
+msgstr "Salvar email de auto-resposta"
 
 #: autoresponders-create.php:265 autoresponders-edit.php:424
 msgid "Back to autoresponder email list"
-msgstr ""
+msgstr "Voltar para lista de auto-respostas"
 
 #: autoresponders-create.php:276 autoresponders-edit.php:435 create.php:249
 #: edit.php:335
 msgid "Disable Grammarly extension in your browser"
-msgstr ""
+msgstr "Desabilite a extensão Grammarly no seu navegador"
 
 #: autoresponders-create.php:277 autoresponders-edit.php:436 create.php:250
 #: edit.php:336
@@ -526,27 +535,33 @@ msgid ""
 "will have an extremely huge file size, look weird and you may not be able to "
 "save or send your campaign. To avoid all these, please do the following:"
 msgstr ""
+"Você tem a extensão 'Grammarly' instalada no seu navegador. O Grammarly "
+"injeta milhares de linhas de código no editor de email. Isso vai aumentar o "
+"tamanho do arquivo do seu email, isso é estranho e você pode não conseguir "
+"salvar ou enviar sua campanha. Para evitar tudo isso, por favor faça o "
+"seguinte:"
 
 #: autoresponders-create.php:279 autoresponders-edit.php:438 create.php:252
 #: edit.php:338
 msgid "Disable Grammarly extension in your browser (please see image below)"
 msgstr ""
+"Desabilite a extensão Grammarly do seu navegador (veja a imagem abaixo)"
 
 #: autoresponders-create.php:280 autoresponders-edit.php:439 create.php:253
 #: edit.php:339
 msgid "Then refresh this page"
-msgstr ""
+msgstr "E então atualize esta página"
 
 #: autoresponders-create.php:287 autoresponders-edit.php:446
 #: create-template.php:74 create.php:260 edit-template.php:89 edit.php:346
 msgid "HTML code"
-msgstr ""
+msgstr "Código HTML"
 
 #: autoresponders-create.php:289 autoresponders-edit.php:449 create.php:262
 #: edit.php:349 includes/ares/toggle-wysiwyg.php:8
 #: includes/create/toggle-wysiwyg.php:9
 msgid "Save and switch to HTML editor"
-msgstr ""
+msgstr "Salvar e mudar para o editor HTML"
 
 #: autoresponders-create.php:290 autoresponders-edit.php:28 create.php:263
 #: edit.php:39
@@ -554,15 +569,17 @@ msgid ""
 "Switch to HTML editor if the WYSIWYG editor is causing your newsletter to "
 "look weird."
 msgstr ""
+"Mude para o editor HTML se o editor WYSIWYG estiver fazendo com que sua "
+"newsletter pareça estranha."
 
 #: autoresponders-create.php:311 autoresponders-edit.php:466 edit.php:366
 msgid "Untitled"
-msgstr ""
+msgstr "Sem título"
 
 #: autoresponders-create.php:320 autoresponders-edit.php:486
 #: create-template.php:77 create.php:293 edit-template.php:92 edit.php:386
 msgid "Email content"
-msgstr ""
+msgstr "Conteúdo do email"
 
 #: autoresponders-create.php:323 autoresponders-edit.php:489
 #: create-template.php:80 create.php:296 edit-template.php:95 edit.php:389
