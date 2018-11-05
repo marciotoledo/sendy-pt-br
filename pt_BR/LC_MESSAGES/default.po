@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sendy\n"
 "POT-Creation-Date: 2018-10-10 16:18+0800\n"
-"PO-Revision-Date: 2018-11-05 06:51-0200\n"
+"PO-Revision-Date: 2018-11-05 07:46-0200\n"
 "Last-Translator: Sendy <hello@sendy.co>\n"
 "Language-Team: Sendy <hello@sendy.co>\n"
 "Language: pt_BR\n"
@@ -476,7 +476,7 @@ msgid ""
 msgstr ""
 "Opcionalmente adicione uma query string para todos os links da sua "
 "newsletter. Um bom caso de uso é o rastreamento do Google Analytics. Não "
-"inclua ‘?' na sua query string."
+"inclua '?' na sua query string."
 
 #: autoresponders-create.php:202 autoresponders-edit.php:288 create.php:181
 #: edit.php:192 send-to.php:949
@@ -603,15 +603,15 @@ msgstr ""
 
 #: autoresponders-emails.php:48
 msgid "Autoresponder emails"
-msgstr ""
+msgstr "Email de auto-resposta"
 
 #: autoresponders-emails.php:54
 msgid "Add a new email to this autoresponder"
-msgstr ""
+msgstr "Adicionar um novo email para esta auto-resposta"
 
 #: autoresponders-emails.php:63
 msgid "Send"
-msgstr ""
+msgstr "Enviar"
 
 #: autoresponders-emails.php:64 autoresponders-report.php:308
 #: autoresponders-report.php:430 autoresponders-report.php:512
@@ -625,7 +625,7 @@ msgstr ""
 #: segment.php:834 settings.php:112 subscribers.php:418 subscription.php:120
 #: update-list.php:111
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: autoresponders-emails.php:68
 msgid "Enabled"
@@ -653,12 +653,12 @@ msgstr ""
 
 #: autoresponders-emails.php:194 templates.php:42
 msgid "Preview"
-msgstr ""
+msgstr "Visualizar"
 
 #: autoresponders-emails.php:196 includes/create/send-now.php:729
 #: includes/create/send-now.php:747 scheduled.php:768 scheduled.php:786
 msgid "View report"
-msgstr ""
+msgstr "Ver relatório"
 
 #: autoresponders-emails.php:296
 msgid "No autoresponder emails are set up."
@@ -670,11 +670,11 @@ msgstr ""
 
 #: autoresponders-list.php:59
 msgid "Autoresponder name is required"
-msgstr ""
+msgstr "É necessário nome da auto-resposta"
 
 #: autoresponders-list.php:75 subscribers.php:164 subscribers.php:166
 msgid "Autoresponders"
-msgstr ""
+msgstr "Auto-respostas"
 
 #: autoresponders-list.php:77 autoresponders-report.php:309
 #: autoresponders-report.php:431 autoresponders-report.php:513
@@ -685,12 +685,12 @@ msgstr ""
 #: segment.php:63 segments-list.php:36 subscribers.php:145
 #: unsubscribe-from-list.php:71 update-list.php:68
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: autoresponders-list.php:77 custom-fields.php:39 search-all-lists.php:29
 #: segments-list.php:36 subscribers.php:145
 msgid "Back to lists"
-msgstr ""
+msgstr "Voltar para listas"
 
 #: autoresponders-list.php:83
 msgid ""
@@ -751,7 +751,7 @@ msgstr ""
 
 #: autoresponders-list.php:211 autoresponders-list.php:335
 msgid "Send annually"
-msgstr ""
+msgstr "Enviar anualmente"
 
 #: autoresponders-list.php:212
 msgid ""
@@ -761,11 +761,11 @@ msgstr ""
 
 #: autoresponders-list.php:214 autoresponders-list.php:250
 msgid "Based on this date"
-msgstr ""
+msgstr "Baseado nesta data"
 
 #: autoresponders-list.php:247 autoresponders-list.php:338
 msgid "Send on date"
-msgstr ""
+msgstr "Enviar na data"
 
 #: autoresponders-list.php:248
 msgid ""
@@ -783,7 +783,7 @@ msgstr ""
 
 #: autoresponders-list.php:281
 msgid "cancel"
-msgstr ""
+msgstr "cancelar"
 
 #: autoresponders-list.php:294
 msgid "Existing autoresponders"
@@ -791,19 +791,19 @@ msgstr ""
 
 #: autoresponders-list.php:298
 msgid "Autoresponder"
-msgstr ""
+msgstr "Auto-resposta"
 
 #: autoresponders-list.php:299
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: autoresponders-list.php:300
 msgid "Emails sent"
-msgstr ""
+msgstr "Emails enviados"
 
 #: autoresponders-list.php:327
 msgid "No emails have been set up"
-msgstr ""
+msgstr "Nenhum email foi configurado"
 
 #: autoresponders-list.php:351
 msgid "All associated autoresponder emails will be permanently deleted."
@@ -815,12 +815,12 @@ msgstr ""
 
 #: autoresponders-report.php:33 report.php:59
 msgid "No opens yet!"
-msgstr ""
+msgstr "Nenhuma abertura ainda!"
 
 #: autoresponders-report.php:33 autoresponders-report.php:204
 #: autoresponders-report.php:205 report.php:59 report.php:297 report.php:298
 msgid "Tracking disabled for opens"
-msgstr ""
+msgstr "Rastreamento desabilitado para abertura"
 
 #: autoresponders-report.php:34 autoresponders-report.php:279
 msgid "There are no links for this autoresponder."
@@ -829,11 +829,11 @@ msgstr ""
 #: autoresponders-report.php:34 autoresponders-report.php:206 report.php:60
 #: report.php:305
 msgid "Tracking disabled for clicks"
-msgstr ""
+msgstr "Rastreamento desabilitado para cliques"
 
 #: autoresponders-report.php:109 report.php:152
 msgid "Activity"
-msgstr ""
+msgstr "Atividade"
 
 #: autoresponders-report.php:144 autoresponders-report.php:367
 #: autoresponders-report.php:633 includes/subscribers/subscriber-info.php:61
@@ -841,7 +841,7 @@ msgstr ""
 #: search-all-lists.php:77 subscribers.php:383 subscribers.php:493
 #: subscribers.php:499
 msgid "Marked as spam"
-msgstr ""
+msgstr "Marcado como spam"
 
 #: autoresponders-report.php:148 autoresponders-report.php:365
 #: autoresponders-report.php:552 includes/subscribers/subscriber-info.php:59
@@ -849,7 +849,7 @@ msgstr ""
 #: search-all-lists.php:75 subscribers.php:382 subscribers.php:491
 #: subscribers.php:497
 msgid "Bounced"
-msgstr ""
+msgstr "Devolvido"
 
 #: autoresponders-report.php:152 autoresponders-report.php:363
 #: autoresponders-report.php:471 includes/subscribers/subscriber-info.php:57
@@ -857,19 +857,19 @@ msgstr ""
 #: search-all-lists.php:73 search-all-lists.php:140 subscribers.php:381
 #: subscribers.php:489 subscribers.php:559 unsubscribe.php:373
 msgid "Unsubscribed"
-msgstr ""
+msgstr "Descadastrados"
 
 #: autoresponders-report.php:156 report.php:199
 msgid "Clicked"
-msgstr ""
+msgstr "Clicados"
 
 #: autoresponders-report.php:160 report.php:203
 msgid "Unopened"
-msgstr ""
+msgstr "Não abertos"
 
 #: autoresponders-report.php:164 report.php:207
 msgid "Opened"
-msgstr ""
+msgstr "Abertos"
 
 #: autoresponders-report.php:186
 msgid "Autoresponder report"
@@ -901,23 +901,23 @@ msgstr ""
 
 #: autoresponders-report.php:206 report.php:305
 msgid "clicked a link"
-msgstr ""
+msgstr "clicado em um link"
 
 #: autoresponders-report.php:212 report.php:311
 msgid "unsubscribed"
-msgstr ""
+msgstr "descadastrado"
 
 #: autoresponders-report.php:213 report.php:313
 msgid "bounced"
-msgstr ""
+msgstr "devolvidos"
 
 #: autoresponders-report.php:214 report.php:315
 msgid "marked as spam"
-msgstr ""
+msgstr "marcado como spam"
 
 #: autoresponders-report.php:223 report.php:324
 msgid "Link activity"
-msgstr ""
+msgstr "Atividade de endereço"
 
 #: autoresponders-report.php:225
 msgid "Export subscribers who clicked"
@@ -925,19 +925,19 @@ msgstr ""
 
 #: autoresponders-report.php:234 report.php:337
 msgid "Link (URL)"
-msgstr ""
+msgstr "Link (URL)"
 
 #: autoresponders-report.php:235 report.php:338
 msgid "Unique"
-msgstr ""
+msgstr "Únicos"
 
 #: autoresponders-report.php:236 report.php:339
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: autoresponders-report.php:296 report.php:410
 msgid "Last 10 opened"
-msgstr ""
+msgstr "Últimos 10 abertos"
 
 #: autoresponders-report.php:298
 msgid "Export subscribers who opened"
@@ -954,7 +954,7 @@ msgstr ""
 #: segment.php:221 segment.php:833 settings.php:105 subscribers.php:417
 #: subscription.php:115 update-list.php:110
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: autoresponders-report.php:310 autoresponders-report.php:432
 #: autoresponders-report.php:514 autoresponders-report.php:595
@@ -963,38 +963,38 @@ msgstr ""
 #: includes/subscribers/subscriber-info.php:339 report.php:427 report.php:559
 #: report.php:652 report.php:747 search-all-lists.php:39 subscribers.php:420
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: autoresponders-report.php:332 autoresponders-report.php:402 report.php:527
 msgid "No one opened yet."
-msgstr ""
+msgstr "Nenhum aberto ainda."
 
 #: autoresponders-report.php:361 includes/subscribers/subscriber-info.php:55
 #: report.php:478 search-all-lists.php:71 search-all-lists.php:136
 #: search-all-lists.php:146 search-all-lists.php:152 subscribers.php:487
 #: subscribers.php:555 subscribers.php:565 subscribers.php:571
 msgid "Subscribed"
-msgstr ""
+msgstr "Inscritos"
 
 #: autoresponders-report.php:370 autoresponders-report.php:453
 #: autoresponders-report.php:534 report.php:487 report.php:580 report.php:672
 #: report.php:767 search-all-lists.php:82 subscribers.php:502
 msgid "No name"
-msgstr ""
+msgstr "Sem nome"
 
 #: autoresponders-report.php:420 report.php:545
 msgid "Last 10 unsubscribed"
-msgstr ""
+msgstr "Últimos 10 descadastrados"
 
 #: autoresponders-report.php:421
 msgid "Export subscribers who unsubscribed"
-msgstr ""
+msgstr "Exportar assinantes que se descadastraram"
 
 #: autoresponders-report.php:433 autoresponders-report.php:515
 #: autoresponders-report.php:596 custom-fields.php:64 custom-fields.php:130
 #: report.php:560 report.php:653 report.php:748
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: autoresponders-report.php:483
 msgid "No one unsubscribed from this autoresponder!"
@@ -1002,11 +1002,11 @@ msgstr ""
 
 #: autoresponders-report.php:502 report.php:638
 msgid "Last 10 bounced emails"
-msgstr ""
+msgstr "Últimos 10 emails devolvidos"
 
 #: autoresponders-report.php:503
 msgid "Export subscribers who bounced"
-msgstr ""
+msgstr "Exportar assinantes que foram devolvidos"
 
 #: autoresponders-report.php:564
 msgid "No emails bounced from this autoresponder!"
@@ -1014,7 +1014,7 @@ msgstr ""
 
 #: autoresponders-report.php:583 report.php:733
 msgid "Last 10 marked as spam"
-msgstr ""
+msgstr "Últimos 10 marcados como spam"
 
 #: autoresponders-report.php:584
 msgid "Export subscribers who marked your email as spam"
@@ -1026,7 +1026,7 @@ msgstr ""
 
 #: autoresponders-report.php:664 report.php:828
 msgid "All countries"
-msgstr ""
+msgstr "Todos os países"
 
 #: autoresponders-report.php:668 includes/ares-reports/export-csv.php:211
 #: includes/reports/export-csv.php:294 includes/subscribers/export-csv.php:164
@@ -1035,7 +1035,7 @@ msgstr ""
 #: includes/subscribers/subscriber-info.php:350 report.php:832 segment.php:91
 #: segment.php:221
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: autoresponders-report.php:669 includes/subscribers/subscriber-info.php:348
 #: report.php:833
@@ -1045,7 +1045,7 @@ msgstr ""
 #: autoresponders-report.php:670 report.php:341 report.php:835 segment.php:825
 #: subscribers.php:122
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: autoresponders-report.php:733
 msgid "Export subscribers from"
@@ -1053,11 +1053,11 @@ msgstr ""
 
 #: autoresponders-report.php:750 report.php:920
 msgid "Top 10 countries"
-msgstr ""
+msgstr "10 principais países"
 
 #: autoresponders-report.php:825 report.php:995
 msgid "No countries detected yet."
-msgstr ""
+msgstr "Nenhum país detectado ainda."
 
 #: autoresponders-report.php:844 report.php:1014 search-all-lists.php:209
 #: segment.php:866 subscribers.php:628
@@ -1108,7 +1108,7 @@ msgstr ""
 
 #: confirm.php:205 confirm.php:250 subscribe.php:438 subscribe.php:480
 msgid "You're subscribed!"
-msgstr ""
+msgstr "Você foi cadastrado!"
 
 #: create-template.php:35 edit-template.php:50
 msgid "The name of this template is required"
@@ -1116,39 +1116,39 @@ msgstr ""
 
 #: create-template.php:53
 msgid "Create template"
-msgstr ""
+msgstr "Criar template"
 
 #: create-template.php:62 edit-template.php:77 templates.php:41
 msgid "Template name"
-msgstr ""
+msgstr "Nome do template"
 
 #: create-template.php:65 edit-template.php:80
 msgid "Name of this template"
-msgstr ""
+msgstr "Nome deste template"
 
 #: create-template.php:69 edit-template.php:84
 msgid "Save template"
-msgstr ""
+msgstr "Salvar template"
 
 #: create.php:65 includes/sidebar.php:9
 msgid "Create new campaign"
-msgstr ""
+msgstr "Criar nova campanha"
 
 #: create.php:73
 msgid "Select a template"
-msgstr ""
+msgstr "Selecionar um template"
 
 #: create.php:96 edit.php:105 send-to.php:941
 msgid "Campaign title"
-msgstr ""
+msgstr "Título da campanha"
 
 #: create.php:99 edit.php:108
 msgid "Title of this campaign"
-msgstr ""
+msgstr "Título desta campanha"
 
 #: create.php:111 edit.php:121
 msgid "Set a title for this campaign?"
-msgstr ""
+msgstr "Configurar um título para esta campanha?"
 
 #: create.php:111 edit.php:121
 msgid ""
@@ -1163,40 +1163,41 @@ msgstr ""
 
 #: custom-fields.php:37 subscribers.php:169
 msgid "Custom fields"
-msgstr ""
+msgstr "Campos customizados"
 
 #: custom-fields.php:47
 msgid "Add a field"
-msgstr ""
+msgstr "Adicionar um campo"
 
 #: custom-fields.php:48 custom-fields.php:84 custom-fields.php:183
 msgid "Field name"
-msgstr ""
+msgstr "Nome do campo"
 
 #: custom-fields.php:53
 msgid "This custom field already exist, please use a unique custom field."
 msgstr ""
+"Este campo customizado já existe, por favor use um campo único customizado."
 
 #: custom-fields.php:57
 msgid "Name of custom field"
-msgstr ""
+msgstr "Nome do campo customizado"
 
 #: custom-fields.php:61 custom-fields.php:86
 msgid "Data type"
-msgstr ""
+msgstr "Tipo de data"
 
 #: custom-fields.php:63 custom-fields.php:95 custom-fields.php:102
 #: custom-fields.php:130
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: custom-fields.php:70
 msgid "Add custom field"
-msgstr ""
+msgstr "Adicionar campo customizado"
 
 #: custom-fields.php:79
 msgid "Existing fields"
-msgstr ""
+msgstr "Campos existentes"
 
 #: custom-fields.php:80
 msgid ""
@@ -1207,7 +1208,7 @@ msgstr ""
 
 #: custom-fields.php:85
 msgid "Personalization tag"
-msgstr ""
+msgstr "Tag de personalização"
 
 #: custom-fields.php:136
 msgid "All data belonging to this custom field will also be deleted."
@@ -1215,11 +1216,11 @@ msgstr ""
 
 #: custom-fields.php:179
 msgid "Edit custom field"
-msgstr ""
+msgstr "Editar campo customizado"
 
 #: delete-from-list.php:48 unsubscribe-from-list.php:48 update-list.php:45
 msgid "Please upload a CSV file"
-msgstr ""
+msgstr "Faça upload de um arquivo CSV"
 
 #: delete-from-list.php:58 unsubscribe-from-list.php:58 update-list.php:55
 msgid "Please enter at least one combination of name & email"
@@ -1227,35 +1228,35 @@ msgstr ""
 
 #: delete-from-list.php:74
 msgid "Mass delete via CSV file"
-msgstr ""
+msgstr "Exclusão em massa por arquivo CSV"
 
 #: delete-from-list.php:80 unsubscribe-from-list.php:80
 msgid "There should only be 1 column in your CSV containing emails."
-msgstr ""
+msgstr "Deveria ter pelo menos 1 coluna no seu arquivo CSV contendo emails."
 
 #: delete-from-list.php:85 unsubscribe-from-list.php:85 update-list.php:82
 msgid "Please upload a CSV file."
-msgstr ""
+msgstr "Faça upload de um arquivo CSV."
 
 #: delete-from-list.php:89 unsubscribe-from-list.php:89
 msgid "CSV format example"
-msgstr ""
+msgstr "Exemplo de formado CSV"
 
 #: delete-from-list.php:110 unsubscribe-from-list.php:110 update-list.php:218
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: delete-from-list.php:115
 msgid "Delete email per line"
-msgstr ""
+msgstr "Excluir email por linha"
 
 #: delete-from-list.php:121 unsubscribe-from-list.php:121 update-list.php:262
 msgid "Sorry, we didn't receive any input."
-msgstr ""
+msgstr "Desculpe, não recebemos nenhuma entrada."
 
 #: delete-from-list.php:125
 msgid "Email to delete"
-msgstr ""
+msgstr "Email para excluir"
 
 #: detect-table-conflicts.php:22 includes/functions.php:29
 msgid ""
@@ -1266,11 +1267,11 @@ msgstr ""
 
 #: edit-brand.php:47 new-brand.php:46
 msgid "Please specify your brand's name"
-msgstr ""
+msgstr "Especifique o nome da sua marca"
 
 #: edit-brand.php:71 index.php:13 new-brand.php:70 settings.php:16
 msgid "Amazon SES Quota"
-msgstr ""
+msgstr "Cota do Amazon SES"
 
 #: edit-brand.php:92 index.php:34 new-brand.php:91 settings.php:39
 msgid "Amazon SES is not set up as we can't find your AWS credentials in"
@@ -1278,7 +1279,7 @@ msgstr ""
 
 #: edit-brand.php:92 index.php:34 new-brand.php:91 settings.php:39
 msgid "settings"
-msgstr ""
+msgstr "configurações"
 
 #: edit-brand.php:93 index.php:35 new-brand.php:92 settings.php:40
 msgid ""
@@ -1293,27 +1294,27 @@ msgstr ""
 
 #: edit-brand.php:98 index.php:40 new-brand.php:97 settings.php:45
 msgid "SES Region"
-msgstr ""
+msgstr "Região do SES"
 
 #: edit-brand.php:99 index.php:41 new-brand.php:98 settings.php:46
 msgid "Max send in 24hrs"
-msgstr ""
+msgstr "Máx. de envio em 24h"
 
 #: edit-brand.php:100 index.php:42 new-brand.php:99 settings.php:47
 msgid "Max send rate"
-msgstr ""
+msgstr "Máx. taxa de envio"
 
 #: edit-brand.php:100 index.php:42 new-brand.php:99 settings.php:47
 msgid "per sec"
-msgstr ""
+msgstr "por seg"
 
 #: edit-brand.php:101 index.php:43 new-brand.php:100 settings.php:48
 msgid "Sent last 24hrs"
-msgstr ""
+msgstr "Enviado nas últimas 24h"
 
 #: edit-brand.php:102 index.php:44 new-brand.php:101 settings.php:49
 msgid "Sends left"
-msgstr ""
+msgstr "Envios restantes"
 
 #: edit-brand.php:106 edit-brand.php:110 edit-brand.php:114 edit-brand.php:118
 #: edit-brand.php:126 index.php:48 index.php:52 index.php:56 index.php:60
@@ -1322,7 +1323,7 @@ msgstr ""
 #: send-to.php:679 send-to.php:683 settings.php:53 settings.php:57
 #: settings.php:61 settings.php:65 settings.php:73
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 #: edit-brand.php:106 index.php:48 new-brand.php:105 settings.php:53
 msgid ""
@@ -1359,11 +1360,11 @@ msgstr ""
 
 #: edit-brand.php:118 index.php:60 new-brand.php:117 settings.php:65
 msgid "Visit"
-msgstr ""
+msgstr "Visita"
 
 #: edit-brand.php:118 index.php:60 new-brand.php:117 settings.php:65
 msgid "your Amazon SES console"
-msgstr ""
+msgstr "seu console do Amazon SES"
 
 #: edit-brand.php:118 index.php:60 new-brand.php:117 settings.php:65
 msgid "Click the 'Sign Up For Amazon SES' button to finish your signup"
@@ -1395,11 +1396,11 @@ msgstr ""
 
 #: edit-brand.php:135
 msgid "Edit brand"
-msgstr ""
+msgstr "Editar marca"
 
 #: edit-brand.php:137 new-brand.php:135
 msgid "Brand name"
-msgstr ""
+msgstr "Nome da marca"
 
 #: edit-brand.php:140 new-brand.php:138
 msgid "The name of the brand you're sending from"
@@ -1411,7 +1412,7 @@ msgstr ""
 
 #: edit-brand.php:157 new-brand.php:155 send-to.php:246
 msgid "Unverified 'From email'"
-msgstr ""
+msgstr "'Email de remetente' não verificado"
 
 #: edit-brand.php:157 new-brand.php:155
 msgid ""
@@ -1444,7 +1445,7 @@ msgstr ""
 
 #: edit-brand.php:166 new-brand.php:164
 msgid "'From email' pending verification"
-msgstr ""
+msgstr "'Email de remetente' pendente de verificação"
 
 #: edit-brand.php:166 new-brand.php:164
 msgid ""
@@ -1462,11 +1463,11 @@ msgstr ""
 
 #: edit-brand.php:168 new-brand.php:166
 msgid "Congrats! This 'From email' is verified."
-msgstr ""
+msgstr "Parabéns! Seu 'Email de remetente' está verificado."
 
 #: edit-brand.php:246 index.php:107 new-brand.php:221
 msgid "Please wait.."
-msgstr ""
+msgstr "Aguarde.."
 
 #: edit-brand.php:252 new-brand.php:227
 msgid ""
@@ -1494,7 +1495,7 @@ msgstr ""
 
 #: edit-brand.php:278 new-brand.php:253
 msgid "Allowed attachments file types"
-msgstr ""
+msgstr "Tipos de anexos permitidos"
 
 #: edit-brand.php:283 new-brand.php:258
 msgid "(Empty field to disable attachments in campaigns)"
@@ -1502,15 +1503,15 @@ msgstr ""
 
 #: edit-brand.php:289 new-brand.php:264
 msgid "Brand logo"
-msgstr ""
+msgstr "Logo da marca"
 
 #: edit-brand.php:289 new-brand.php:264
 msgid "(32 x 32 pixel, jpeg, jpg, gif or png format)"
-msgstr ""
+msgstr "(32 x 32 pixels, em formato jpeg, jpg, gif ou png)"
 
 #: edit-brand.php:302
 msgid "Confirm delete this logo?"
-msgstr ""
+msgstr "Confirma exclusão deste logo?"
 
 #: edit-brand.php:331
 msgid ""
@@ -1520,7 +1521,7 @@ msgstr ""
 
 #: edit-brand.php:336
 msgid "Please upload only these file formats: jpeg, jpg, gif or png."
-msgstr ""
+msgstr "Por favor faça upload apenas nestes formatos: jpeg, jpg, gif ou png."
 
 #: edit-brand.php:341
 msgid ""
@@ -1612,7 +1613,7 @@ msgstr ""
 
 #: edit-brand.php:397 new-brand.php:325 settings.php:454
 msgid "rows per page"
-msgstr ""
+msgstr "linhas por página"
 
 #: edit-brand.php:407 new-brand.php:335
 msgid "SMTP settings (only if you're not using Amazon SES)"
@@ -1630,33 +1631,33 @@ msgstr ""
 
 #: edit-brand.php:413 new-brand.php:341
 msgid "Host"
-msgstr ""
+msgstr "Endereço"
 
 #: edit-brand.php:420 new-brand.php:348
 msgid "Port"
-msgstr ""
+msgstr "Porta"
 
 #: edit-brand.php:440 new-brand.php:365
 msgid "Username"
-msgstr ""
+msgstr "Usuário"
 
 #: edit-brand.php:443 new-brand.php:368
 msgid "Username (usually your email)"
-msgstr ""
+msgstr "Usuário (geralmente seu email)"
 
 #: edit-brand.php:447 edit-brand.php:468 includes/login/reset.php:85
 #: includes/login/reset.php:102 login.php:58 new-brand.php:372
 #: new-brand.php:392
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: edit-brand.php:450
 msgid "Leave blank to not change it"
-msgstr ""
+msgstr "Deixe em branco para não mudar"
 
 #: edit-brand.php:459 new-brand.php:383
 msgid "Brand settings"
-msgstr ""
+msgstr "Configurações da marca"
 
 #: edit-brand.php:461 new-brand.php:385
 msgid ""
@@ -1670,7 +1671,7 @@ msgstr ""
 
 #: edit-brand.php:461 edit-brand.php:464 new-brand.php:385 new-brand.php:388
 msgid "Client login details"
-msgstr ""
+msgstr "Detalhes de login do cliente"
 
 #: edit-brand.php:461 new-brand.php:385
 msgid ""
@@ -1684,15 +1685,15 @@ msgstr ""
 
 #: edit-brand.php:461 includes/header.php:102 new-brand.php:385 settings.php:84
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: edit-brand.php:465 new-brand.php:389
 msgid "Login URL"
-msgstr ""
+msgstr "Endereço de login"
 
 #: edit-brand.php:466 new-brand.php:390
 msgid "Login email"
-msgstr ""
+msgstr "Email de login"
 
 #: edit-brand.php:467 new-brand.php:391
 msgid ""
@@ -1703,7 +1704,7 @@ msgstr ""
 
 #: edit-brand.php:468
 msgid "Generate new password"
-msgstr ""
+msgstr "Gerar nova senha"
 
 #: edit-brand.php:470 settings.php:138
 msgid ""
@@ -1713,7 +1714,7 @@ msgstr ""
 
 #: edit-brand.php:473 settings.php:140
 msgid "Disable two-factor authentication"
-msgstr ""
+msgstr "Desabilitar autenticação de dois fatores"
 
 #: edit-brand.php:486
 msgid ""
@@ -1729,7 +1730,7 @@ msgstr ""
 
 #: edit-brand.php:488 settings.php:234 settings.php:265
 msgid "Unable to save. Please try again."
-msgstr ""
+msgstr "Não foi possível salvar. Por favor tente novamente."
 
 #: edit-brand.php:495 settings.php:132
 msgid ""
@@ -1739,11 +1740,11 @@ msgstr ""
 
 #: edit-brand.php:511 new-brand.php:396
 msgid "Language"
-msgstr ""
+msgstr "Língua"
 
 #: edit-brand.php:538 new-brand.php:424
 msgid "Client privileges"
-msgstr ""
+msgstr "Privilégios do cliente"
 
 #: edit-brand.php:539 new-brand.php:425
 msgid ""
@@ -1754,19 +1755,19 @@ msgstr ""
 
 #: edit-brand.php:543 new-brand.php:429
 msgid "Client can access campaigns"
-msgstr ""
+msgstr "Cliente pode acessar campanhas"
 
 #: edit-brand.php:546 new-brand.php:432
 msgid "Client can access templates"
-msgstr ""
+msgstr "Cliente pode acessar templates"
 
 #: edit-brand.php:549 new-brand.php:435
 msgid "Client can access lists and subscribers"
-msgstr ""
+msgstr "Cliente pode acessar listas e assinantes"
 
 #: edit-brand.php:552 new-brand.php:438
 msgid "Client can access campaign reports"
-msgstr ""
+msgstr "Cliente pode acessar relatório de campanhas"
 
 #: edit-brand.php:561 new-brand.php:447
 msgid "Campaign sent notifications"
@@ -1783,7 +1784,7 @@ msgstr ""
 
 #: edit-brand.php:566 new-brand.php:452
 msgid "Send email notifications to my main login email "
-msgstr ""
+msgstr "Enviar emails de notificação para meu email principal de login"
 
 #: edit-brand.php:575 new-brand.php:461
 msgid "Campaign fee settings"
@@ -1791,35 +1792,35 @@ msgstr ""
 
 #: edit-brand.php:577 new-brand.php:463
 msgid "Currency"
-msgstr ""
+msgstr "Moeda"
 
 #: edit-brand.php:617 new-brand.php:494 send-to.php:597
 msgid "Delivery Fee"
-msgstr ""
+msgstr "Tarifa de envio"
 
 #: edit-brand.php:626 new-brand.php:503
 msgid "Cost per recipient"
-msgstr ""
+msgstr "Custo por destinatário"
 
 #: edit-brand.php:639 new-brand.php:516
 msgid "Set monthly limit"
-msgstr ""
+msgstr "Configurar limite mensal"
 
 #: edit-brand.php:641 new-brand.php:518
 msgid "Number of emails per month"
-msgstr ""
+msgstr "Número de emails por mês"
 
 #: edit-brand.php:647 new-brand.php:524
 msgid "No limits"
-msgstr ""
+msgstr "Sem limite"
 
 #: edit-brand.php:648 edit-brand.php:662 new-brand.php:525 new-brand.php:535
 msgid "Set limit"
-msgstr ""
+msgstr "Configurar limite"
 
 #: edit-brand.php:655
 msgid "Currently used"
-msgstr ""
+msgstr "Usado atualmente"
 
 #: edit-brand.php:688 new-brand.php:554
 msgid "Reset limit on which day of the month?"
@@ -1827,23 +1828,23 @@ msgstr ""
 
 #: edit-list.php:22
 msgid "Edit list"
-msgstr ""
+msgstr "Editar lista"
 
 #: edit-list.php:30 new-list.php:33
 msgid "List name"
-msgstr ""
+msgstr "Nome da lista"
 
 #: edit-list.php:33
 msgid "The list name"
-msgstr ""
+msgstr "O nome da lista"
 
 #: edit-list.php:45
 msgid "Subscribe settings"
-msgstr ""
+msgstr "Configuração de assinates"
 
 #: edit-list.php:52
 msgid "List type"
-msgstr ""
+msgstr "Tipo de lista"
 
 #: edit-list.php:54
 msgid ""
@@ -1862,7 +1863,7 @@ msgstr ""
 
 #: edit-list.php:84
 msgid "Subscribe success page"
-msgstr ""
+msgstr "Página de sucesso de inscrição"
 
 #: edit-list.php:86
 msgid ""
@@ -1874,7 +1875,7 @@ msgstr ""
 
 #: edit-list.php:87 edit-list.php:109 edit-list.php:265
 msgid "Page URL"
-msgstr ""
+msgstr "Endereço da página"
 
 #: edit-list.php:94
 msgid ""
@@ -1883,7 +1884,7 @@ msgstr ""
 
 #: edit-list.php:95 edit-list.php:117 edit-list.php:273
 msgid "Example"
-msgstr ""
+msgstr "Exemplo"
 
 #: edit-list.php:98 edit-list.php:120
 msgid "<code>%n</code> will be converted into the subscriber's name"
@@ -1900,7 +1901,7 @@ msgstr ""
 
 #: edit-list.php:106
 msgid "Subscription confirmed page"
-msgstr ""
+msgstr "Página de confirmação da inscrição"
 
 #: edit-list.php:106 edit-list.php:159 edit-list.php:166
 msgid "only applies for double opt-ins"
