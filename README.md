@@ -1,4 +1,4 @@
-# Tradução do Sendy (pt-br)
+# Tradução do Sendy (pt_BR)
 Tradução da aplicação de newsletter [Sendy](https://sendy.co/?ref=Q3yhn) para Português do Brasil
 
 ## O que é o Sendy?
